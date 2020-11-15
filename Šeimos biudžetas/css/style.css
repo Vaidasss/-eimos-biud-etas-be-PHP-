@@ -1,0 +1,64 @@
+body	{
+background-color: #00004d;
+}
+
+table, td	{
+border: 4px inset #6666ff;
+border-collapse: collapse;
+margin-left: auto;
+margin-right: auto;
+width: 50%;  
+background-color:#29053d;
+padding: 10px;
+color: white;
+text-transform: uppercase;
+text-align: center;
+font-weight: 900;
+font-size-adjust: 1;
+letter-spacing: 5px;
+font-size: 25px;
+}
+
+
+.vyras	{
+height: 300px;;
+width: 300px;
+}
+
+.zmona {
+height: 300px;;
+width: 300px;
+}
+
+.maryte {
+height: 300px;;
+width: 300px;  
+}
+
+
+
+a {
+text-align: center;  
+text-decoration: none;
+color: #a64dff;
+margin: 0;
+text-transform: uppercase;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+h2 {
+font-family: 'Xanh Mono', monospace;  
+text-align: center;
+font-size:50px;
+color:#e3aee8 ;
+}
+
+
+
+	
+  
+
+
